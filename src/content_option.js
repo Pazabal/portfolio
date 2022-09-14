@@ -74,13 +74,13 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://i.im.ge/2022/09/02/O3jShG.pokedex.png",
+        img: "https://i.im.ge/2022/09/15/1XBbx0.Capture.png",
         desctiption: "Pokedex is an app where you can login, search and create different Pokémons. It was developed using React for the UI, NodeJS for the server, and PGAdmin for the database.",
         link: "https://63221235156ffb32de3ff5b8--comforting-cocada-57d6cb.netlify.app/",
         // link: "https://github.com/Pazabal/Pokedex-frontend",
     },
     {
-        img: "https://i.im.ge/2022/09/02/O3jShG.pokedex.png",
+        img: "https://i.im.ge/2022/09/15/1XBbx0.Capture.png",
         desctiption: "Pokedex Project Backend",
         link: "https://github.com/Pazabal/Pokedex-backend",
     },
