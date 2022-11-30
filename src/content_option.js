@@ -11,7 +11,7 @@ const introdata = {
         second: "I love React and NodeJS",
         third: "Based in UY",
     },
-    description: "Currently, I´m an employee at Globant as a NodeJS Developer and Salesforce QA, looking for ways to put my knowledge and skills to use. I am a great communicator, motivated by any opportunity where I can learn new things or engage with people. ",
+    description: "Currently, I´m an employee at Globant as a Web UI Developer and Salesforce QA, looking for ways to put my knowledge and skills to use. I am a great communicator, motivated by any opportunity where I can learn new things or engage with people. ",
     your_img_url: "https://i.im.ge/2022/08/31/OEJsaG.paz.jpg",
 };
 
