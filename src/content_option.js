@@ -31,7 +31,7 @@ const worktimeline = [
         date: "2022",
     },
     {
-        jobtitle: "Salesforce QA",
+        jobtitle: "Salesforce QA", 
         where: "Globant (Agrofy.SA)",
         date: "2022",
     },
